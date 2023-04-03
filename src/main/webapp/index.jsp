@@ -5,8 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+
 </head>
 <body>
+    <h1>웰컴페이지</h1>
 
 </body>
 </html>
