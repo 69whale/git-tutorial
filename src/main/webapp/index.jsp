@@ -9,6 +9,9 @@
 </head>
 <body>
     <h1>웰컴페이지</h1>
+    
+    <a href="">로그인</a>
+    <a href="">회원가입</a>
 
 </body>
 </html>
